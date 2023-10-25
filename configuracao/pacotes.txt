@@ -1,0 +1,11 @@
+Inicialização projeto
+yarn init -y
+
+Dependencias dev
+yarn add -D typescript nodemon ts-node @types/express @types/node
+
+Producao
+yarn add express pg typeorm dotenv reflect-metadata
+
+typescript No projeto
+npx tsc --init
