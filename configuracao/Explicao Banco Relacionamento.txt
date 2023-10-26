@@ -1,0 +1,8 @@
+Na entidade que recebe muitos, ela irá receber o id da entidade que tem
+um.
+
+Exemplo : Consultas
+Recebe Paciente e Medico
+
+Paciente pode Ter uma ou muitas Consultas
+Medico pode Ter uma ou muitas Consultas
